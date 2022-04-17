@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@iHardikTrivedi 
-iHardikTrivedi
-/
-ihardiktrivedi
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-ihardiktrivedi
-/
-Name your file…
-in
-main
- 
 <h1 align="center">Hi 👋, I'm Hardik M. Trivedi</h1>
 <h3 align="center">A passionate iOS App Engineer from India</h3>
 
