@@ -1,5 +1,5 @@
 <h1 align="center">Hello, This is Hardik Mineshkumar Trivedi</h1>
-<h3 align="center">An Experienced iOS Application Developer</h3>
+<h3 align="center">An Experienced iOS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihardiktrivedi&label=Profile%20views&color=0e75b6&style=flat" alt="ihardiktrivedi" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ihardiktrivedi" target="blank"><img src="https://img.shields.io/twitter/follow/ihardiktrivedi?logo=twitter&style=for-the-badge" alt="ihardiktrivedi" /></a> </p>
 
-- 🔭 I’m currently working on [Soma NPT](https://apps.apple.com/us/app/soma-npt/id1333946625)
+- 🔭 I’m currently working on [Resiliency Program](https://apps.apple.com/us/app/resiliency-program/id1625719136)
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI** & explore **TDD** approach.
 
 - 🤝 I’m looking for help with [SwiftUI Learning](https://developer.apple.com/xcode/swiftui/)
 
