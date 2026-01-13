@@ -1,5 +1,5 @@
 <h1 align="center">Hello, This is Haardik Trivedi</h1>
-<h3 align="center">a Senior Mobile Engineer | iOS Specialist with React Native Expertise</h3>
+<h3 align="center">Senior Mobile Engineer | iOS Specialist with React Native Expertise</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihardiktrivedi&label=Profile%20views&color=0e75b6&style=flat" alt="ihardiktrivedi" /> </p>
 
