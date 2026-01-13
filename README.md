@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently exploring **React Natvie** & **Flutter**.
 
-- 👨‍💻 All of my projects are listed on [My Portfolio](https://ihardiktrivedi.com/Resume/Mobile_Engineer_HaardikTrivedi.pdf#page=2)
+- 👨‍💻 All of my projects are listed on [My Portfolio](https://ihardiktrivedi.com/Resume/Haardik_Trivedi_Senior_Mobile_Engineer_iOS_React_Native.pdf#page=2)
 
 - 💬 Ask me about **SwiftUI & Swift**, **JavaScript & TypeScript** or **Dart**.
 
