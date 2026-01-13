@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ihardiktrivedi" target="blank"><img src="https://img.shields.io/twitter/follow/ihardiktrivedi?logo=twitter&style=for-the-badge" alt="ihardiktrivedi" /></a> </p>
 
-- 🔭 I’m currently working on Cross-platform apps.
+- 🔭 I’m currently working on Cross-platform apps with React Native.
 
-- 🌱 I’m currently exploring **React Natvie** & **Flutter**.
+- 🌱 I’m currently exploring **React JS**.
 
 - 👨‍💻 All of my projects are listed on [My Portfolio](https://ihardiktrivedi.com/Resume/Haardik_Trivedi_Senior_Mobile_Engineer_iOS_React_Native.pdf#page=2)
 
-- 💬 Ask me about **SwiftUI & Swift**, **JavaScript & TypeScript** or **Dart**.
+- 💬 Ask me about **SwiftUI & Swift**, **JavaScript & TypeScript**.
 
 - 📫 How to reach me **ihardiktrivedi.ihart@gmail.com**
 
